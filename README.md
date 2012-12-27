@@ -5,4 +5,6 @@ This repo contains files from my [HTML5 Game Development series on Youtube.](htt
 
 The files shown above are from the finished game. Zipped tutorial files can be [downloaded here.](https://github.com/gyrostorm/html5-game-dev-series/downloads)
 
+If you want to test out the game, [click here.](http://gyrostorm.github.com/html5-game-dev-series/)
+
 Some tutorials are missing, but most of them are there. Each zip file only includes the files that were updated in that tutorial.
